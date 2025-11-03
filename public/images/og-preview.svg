@@ -1,0 +1,15 @@
+<svg width="1200" height="630" viewBox="0 0 1200 630" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="630" fill="#0B2545"/>
+  <circle cx="260" cy="210" r="160" fill="url(#paint0_radial)" opacity="0.65"/>
+  <circle cx="890" cy="420" r="220" fill="#0FA958" opacity="0.25"/>
+  <path d="M160 470C380 350 760 360 1040 240" stroke="#0FA958" stroke-width="12" stroke-linecap="round" stroke-linejoin="round" opacity="0.45"/>
+  <text x="120" y="160" fill="white" font-family="'Sora', 'Arial', sans-serif" font-size="60" font-weight="600">Entrepreneurial Engineer</text>
+  <text x="120" y="230" fill="#F5F5F5" font-family="'Inter', 'Arial', sans-serif" font-size="32">Futuristic, eco-inspired resume experience</text>
+  <text x="120" y="290" fill="#0FA958" font-family="'Inter', 'Arial', sans-serif" font-size="24">Iconic Cleanup · Battle Bot · AI Automations</text>
+  <defs>
+    <radialGradient id="paint0_radial" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(260 210) rotate(90) scale(160)">
+      <stop stop-color="#0FA958"/>
+      <stop offset="1" stop-color="#0FA958" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+</svg>
